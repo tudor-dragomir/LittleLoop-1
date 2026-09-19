@@ -2,5 +2,7 @@
   "name": "Children's Activity Calendar",
   "description": "An interactive calendar for parents to organize, track, and manage their kids' activities, schedules, packing checklists, and carpools.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
