@@ -261,4 +261,6 @@ If you have an idea for improving LittleLoop:
 
 ## 📄 License
 
-License information will be added as the project matures.
+MIT License
+Copyright (c) 2026 Tudor Dragomir
+
